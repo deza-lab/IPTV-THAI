@@ -22,7 +22,7 @@ https://load1.v2h-cdn.com/digitaltv/altv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV", 5HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/ch5/playlist.m3u8
+https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=b5yMGI0OGFmZWE0Y2YxODc5NzExOANGVjYzE2NzhhOWE4MDdm
 
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV", Boomerang
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
