@@ -26,7 +26,7 @@ https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=b5yMGI0OGFmZWE0Y2YxODc5NzExOANGVjYzE
 
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV", Boomerang
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1781594261&uta=DvYpuFOZYBHBJ-I8mp8kIw
 
 #EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
