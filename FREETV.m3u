@@ -118,7 +118,7 @@ https://load1.v2h-cdn.com/digitaltv/thairath/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yMGI4MmI3ZjYwNTg2M2Y5NzA4YgMWE5MDI2MWIwNWMzNzNk
 
 #EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="Digital TV", Amarin
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
